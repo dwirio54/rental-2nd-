@@ -10,8 +10,8 @@
 </head>
 
 <body class="bg-white">
-    <div class="content px-3">
-        <div class="mb-3">
+    <div class="content px-0">
+        <div class="mb-1">
             <h3 class="text-info">Laporan Semua Data Transaksi</h3>
         </div>
         <table class="table table-stripped">
